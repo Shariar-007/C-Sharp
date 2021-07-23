@@ -1,0 +1,13 @@
+G:\C#\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.exe
+G:\C#\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.deps.json
+G:\C#\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.json
+G:\C#\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.dev.json
+G:\C#\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.dll
+G:\C#\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.pdb
+G:\C#\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.AssemblyReference.cache
+G:\C#\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfoInputs.cache
+G:\C#\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfo.cs
+G:\C#\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+G:\C#\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.dll
+G:\C#\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.pdb
+G:\C#\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.genruntimeconfig.cache
