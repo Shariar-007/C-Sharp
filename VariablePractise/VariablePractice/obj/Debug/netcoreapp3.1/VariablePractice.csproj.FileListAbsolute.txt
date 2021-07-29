@@ -1,0 +1,4 @@
+G:\C#\VariablePractise\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.csproj.AssemblyReference.cache
+G:\C#\VariablePractise\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.AssemblyInfoInputs.cache
+G:\C#\VariablePractise\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.AssemblyInfo.cs
+G:\C#\VariablePractise\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\bin\Debug\netcoreapp3.1\ConstantsPractice.exe
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\bin\Debug\netcoreapp3.1\ConstantsPractice.deps.json
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\bin\Debug\netcoreapp3.1\ConstantsPractice.runtimeconfig.json
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\bin\Debug\netcoreapp3.1\ConstantsPractice.runtimeconfig.dev.json
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\bin\Debug\netcoreapp3.1\ConstantsPractice.dll
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\bin\Debug\netcoreapp3.1\ConstantsPractice.pdb
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\obj\Debug\netcoreapp3.1\ConstantsPractice.csproj.AssemblyReference.cache
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\obj\Debug\netcoreapp3.1\ConstantsPractice.AssemblyInfoInputs.cache
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\obj\Debug\netcoreapp3.1\ConstantsPractice.AssemblyInfo.cs
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\obj\Debug\netcoreapp3.1\ConstantsPractice.csproj.CoreCompileInputs.cache
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\obj\Debug\netcoreapp3.1\ConstantsPractice.dll
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\obj\Debug\netcoreapp3.1\ConstantsPractice.pdb
+C:\Users\shari\source\repos\ConstantsPractice\ConstantsPractice\obj\Debug\netcoreapp3.1\ConstantsPractice.genruntimeconfig.cache

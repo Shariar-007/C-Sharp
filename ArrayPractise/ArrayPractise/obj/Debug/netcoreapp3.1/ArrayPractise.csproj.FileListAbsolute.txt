@@ -1,0 +1,13 @@
+G:\C#\ArrayPractise\ArrayPractise\bin\Debug\netcoreapp3.1\ArrayPractise.exe
+G:\C#\ArrayPractise\ArrayPractise\bin\Debug\netcoreapp3.1\ArrayPractise.deps.json
+G:\C#\ArrayPractise\ArrayPractise\bin\Debug\netcoreapp3.1\ArrayPractise.runtimeconfig.json
+G:\C#\ArrayPractise\ArrayPractise\bin\Debug\netcoreapp3.1\ArrayPractise.runtimeconfig.dev.json
+G:\C#\ArrayPractise\ArrayPractise\bin\Debug\netcoreapp3.1\ArrayPractise.dll
+G:\C#\ArrayPractise\ArrayPractise\bin\Debug\netcoreapp3.1\ArrayPractise.pdb
+G:\C#\ArrayPractise\ArrayPractise\obj\Debug\netcoreapp3.1\ArrayPractise.csproj.AssemblyReference.cache
+G:\C#\ArrayPractise\ArrayPractise\obj\Debug\netcoreapp3.1\ArrayPractise.AssemblyInfoInputs.cache
+G:\C#\ArrayPractise\ArrayPractise\obj\Debug\netcoreapp3.1\ArrayPractise.AssemblyInfo.cs
+G:\C#\ArrayPractise\ArrayPractise\obj\Debug\netcoreapp3.1\ArrayPractise.csproj.CoreCompileInputs.cache
+G:\C#\ArrayPractise\ArrayPractise\obj\Debug\netcoreapp3.1\ArrayPractise.dll
+G:\C#\ArrayPractise\ArrayPractise\obj\Debug\netcoreapp3.1\ArrayPractise.pdb
+G:\C#\ArrayPractise\ArrayPractise\obj\Debug\netcoreapp3.1\ArrayPractise.genruntimeconfig.cache
